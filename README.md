@@ -11,3 +11,6 @@ I love solving algorithmic puzzles in a time-constrained manner. Here are some o
 [![leetcode](https://cp-logo.vercel.app/leetcode/octaneal?logo=true)](https://leetcode.com/octaneal/)
 [![codechef](https://cp-logo.vercel.app/codechef/octaneal?logo=true)](https://www.codechef.com/users/octaneal)
 [![codeforces](https://cp-logo.vercel.app/codeforces/octaneal?logo=true)](https://codeforces.com/profile/octaneal)
+
+![Banner](graph_python.png)
+![Banner](chart_ge_dev.png)
