@@ -1,6 +1,6 @@
 # Hello! I am Dima.
 
-I am a 17-year-old from Ukraine, and I'm about to graduate from high school this year. I'm passionate about algorithmic programming and continuously work on improving my skills in this field. On my GitHub profile, you will find a collection of my projects and research papers.
+I am a 17-year-old from Ukraine, and I graduated from high school this year. I'm passionate about algorithmic programming and continuously work on improving my skills in this field. On my GitHub profile, you will find a collection of my projects and research papers.
 
 Proficient in **algorithms and data structures**, **Python** and **C++**.
 
