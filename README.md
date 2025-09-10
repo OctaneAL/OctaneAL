@@ -1,6 +1,8 @@
 # Hello! I am Dima.
 
-I am a 18-year-old from Ukraine, 1st year CS student in Cracow, Poland. I'm passionate about algorithmic programming and continuously work on improving my skills in this field. On my GitHub profile, you will find a collection of my projects and research papers.
+I'm Software Engineer, currently working @ Akamai.
+
+I'm passionate about algorithmic programming and continuously work on improving my skills in this field. On my GitHub profile, you will find a collection of my projects and research papers.
 
 Proficient in **algorithms and data structures**, **Python** and **C++**.
 
