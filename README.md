@@ -1,6 +1,6 @@
 # Hello! I am Dima.
 
-I'm a Software Engineer, currently working @ Akamai.
+I'm a Software Engineer
 
 I'm passionate about algorithmic programming and continuously work on improving my skills in this field. On my GitHub profile, you will find a collection of my projects and research papers.
 
