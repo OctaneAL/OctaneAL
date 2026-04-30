@@ -8,7 +8,7 @@ Proficient in **algorithms and data structures**, **Python** and **C++**.
 
 ## Competitive Programming
 
-I love solving algorithmic puzzles in a time-constrained manner. Here are some of my [stats](https://clist.by/coder/octaneal/):
+I love solving algorithmic puzzles in a time-constrained manner. Here are some of my stats:
 
 [![leetcode](https://cp-logo.vercel.app/leetcode/octaneal?logo=true)](https://leetcode.com/octaneal/)
 [![codeforces](https://cp-logo.vercel.app/codeforces/octaneal?logo=true)](https://codeforces.com/profile/octaneal)
